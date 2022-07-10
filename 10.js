@@ -1,4 +1,4 @@
-
+//My program
 let time=10;
 
 if(time<10){
@@ -6,7 +6,7 @@ if(time<10){
 }else if(time<20){
   greeting="Good day";
 }else{
-  greeting="Good evening";  
+  greeting="Good evening";
 }
 
 console.log(greeting);
